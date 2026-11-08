@@ -1,0 +1,3 @@
+User-agent: AnsworityEvidence
+Disallow: /
+Allow: /LanternValeLawyers/
